@@ -4,7 +4,6 @@
 
 _This project uses [Nuxt.js](https://nuxtjs.org/). In order to run this project, you need Nuxt either globally or locally installed._
 
-- Fork this repository
 - Run the following commands in the repo root directory:
 
 ```cmd
